@@ -35,6 +35,7 @@
 				if( $curpage == $page->ID ) $this_css = ' class="active"';
 				echo "<li><a $this_css href=\"$this_link\">" . $page->post_title . "</a></li>\n\t\t";
 			} ?>
+				<li style="float:right"><a style="padding:0;margin-right:7px;" href="http://feed.pureweber.com"><img src="<?php bloginfo('template_url') ?>/images/rss.jpg" /></a></li>
         </ul>
         <div class="ffix"></div>
         <div id="content"><!--content-->
