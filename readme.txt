@@ -5,7 +5,7 @@ MagZine is a magazine styled wordpress theme that so easy to use and configure. 
 Instalation:
 1. Unzip the MagZine.zip then, you will get a folder named "MagZine" insine MagZine folder beside Readme.txt file
 2. Upload folder "MagZine" into wp-content/theme at your Web server.
-3. Activate the theme within yoursite.com/wp-admin, select Appereance Menu > Theme and then select MagZine to activate.
+3. Activate the theme within yoursite.com/wp-admin, select Appearance Menu > Theme and then select MagZine to activate.
 4. You are ready to roll.
 --------
 Modification Guide:
